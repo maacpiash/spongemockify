@@ -32,6 +32,4 @@ function spongemockify(str) {
   return newChars.join('');
 }
 
-console.log(spongemockify(process.argv[2]));
-
 module.exports = { spongemockify };

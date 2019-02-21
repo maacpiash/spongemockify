@@ -2,12 +2,12 @@
   "name": "spongemockify",
   "version": "1.0.1",
   "description": "Spongemockify any English text",
-  "main": "index.js",
+  "main": "cli.js",
   "bin": {
-    "spongemockify": "index.js"
+    "spongemockify": "./cli.js"
   },
   "scripts": {
-    "test": "eslint index.js"
+    "test": "eslint lib.js cli.js"
   },
   "repository": {
     "type": "git",
