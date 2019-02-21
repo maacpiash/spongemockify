@@ -1,8 +1,11 @@
 {
   "name": "spongemockify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Spongemockify any English text",
   "main": "index.js",
+  "bin": {
+    "spongemockify": "index.js"
+  },
   "scripts": {
     "test": "eslint index.js"
   },
