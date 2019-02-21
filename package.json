@@ -1,0 +1,22 @@
+{
+  "name": "spongemockify",
+  "version": "1.0.0",
+  "description": "Spongemockify any English text",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maacpiash/spongemockify.git"
+  },
+  "author": "maacpiash",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maacpiash/spongemockify/issues"
+  },
+  "homepage": "https://github.com/maacpiash/spongemockify#readme",
+  "devDependencies": {
+    "eslint": "^5.14.1"
+  }
+}
