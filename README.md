@@ -26,4 +26,9 @@ As a CLI tool:
 spongemockify <string>
 ```
 
+## Acknowledgement
+
+Special thanks to [Shawon Ashraf](https://github.com/ShawonAshraf) who spent his precious time to kill some bugs and make the module usable as a CLI command.
+<br><br>
+
 Enjoy!
