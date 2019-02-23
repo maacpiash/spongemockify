@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/maacpiash/spongemockify#readme",
   "devDependencies": {
+    "assert": "^1.4.1",
     "eslint": "^5.14.1"
   }
 }

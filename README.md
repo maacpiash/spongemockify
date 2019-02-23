@@ -28,7 +28,7 @@ spongemockify <string>
 
 ## Acknowledgement
 
-Special thanks to [Shawon Ashraf](https://github.com/ShawonAshraf) who spent his precious time to kill some bugs and make the module usable as a CLI command.
+Special thanks to my good buddy and a prominent JS junkie [Shawon Ashraf](https://github.com/ShawonAshraf) who spent his precious time (on his birthday!) to kill some bugs and make the module usable as a CLI command.
 <br><br>
 
 Enjoy!

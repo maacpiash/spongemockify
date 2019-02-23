@@ -2,8 +2,5 @@ language: node_js
 node_js:
   - "lts/*"
 
-# before_script:
-#   - sudo npm install -g eslint
-
-# script:
-#   
+script:
+  - node test.js
