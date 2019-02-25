@@ -26,6 +26,13 @@ As a CLI tool:
 spongemockify <string>
 ```
 
+As a package inside a Node.js project:
+```JavaScript
+const sp = require('spongemockify/lib');
+/* Code */
+sp.spongemockify(str);
+```
+
 ## Acknowledgement
 
 Special thanks to my good buddy and a prominent JS junkie [Shawon Ashraf](https://github.com/ShawonAshraf) who spent his precious time (on his birthday!) to kill some bugs and make the module usable as a CLI command.
