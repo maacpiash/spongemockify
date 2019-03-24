@@ -3,4 +3,5 @@ language:
 install:
   - npm install -g jest codecov
 script:
-  - jest && codecov
+  - jest
+  - codecov -t 2c0c61e3-d429-4d4c-94d8-03472233d530
