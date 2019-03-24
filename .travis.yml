@@ -1,6 +1,6 @@
-language: node_js
-node_js:
-  - "lts/*"
-
+language:
+  node_js
+install:
+  - npm install -g jest codecov
 script:
-  - node test.js
+  - jest && codecov
