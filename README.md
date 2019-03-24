@@ -4,7 +4,7 @@
     <a href="https://travis-ci.org/maacpiash/spongemockify"><img
             src="https://travis-ci.org/maacpiash/spongemockify.svg?branch=master" alt="Build Status"></a>
     <a href="https://codecov.io/gh/maacpiash/spongemockify/"><img
-            src="https://img.shields.io/codecov/c/github/maacpiash/spongemockify/coverage.svg?style=flat-square"
+            src="https://img.shields.io/codecov/c/github/maacpiash/spongemockify.svg"
             alt="Codecov Coverage"></a>
     <a href="https://www.npmjs.com/package/spongemockify"><img src="https://badge.fury.io/js/spongemockify.svg"
             alt="npm version"></a>
