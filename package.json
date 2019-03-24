@@ -7,7 +7,7 @@
     "spongemockify": "./cli.js"
   },
   "scripts": {
-    "test": "eslint lib.js cli.js"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -21,6 +21,12 @@
   "homepage": "https://github.com/maacpiash/spongemockify#readme",
   "devDependencies": {
     "assert": "^1.4.1",
-    "eslint": "^5.14.1"
+    "codecov": "^3.2.0",
+    "eslint": "^5.14.1",
+    "jest": "^24.5.0"
+  },
+  "jest": {
+    "coverageDirectory": "./coverage/",
+    "collectCoverage": true
   }
 }

@@ -1,15 +1,31 @@
-# spONgeMocKifY
+<h1 align="center">spONgeMocKifY</h1>
 
-[![Build Status](https://travis-ci.org/maacpiash/spongemockify.svg?branch=master)](https://travis-ci.org/maacpiash/spongemockify)
-[![npm version](https://badge.fury.io/js/spongemockify.svg)](https://www.npmjs.com/package/spongemockify)
-[![npm Downloads](https://img.shields.io/npm/dt/spongemockify.svg)](https://www.npmjs.com/package/spongemockify)
-[![Package Quality](https://npm.packagequality.com/shield/spongemockify.svg)](https://packagequality.com/#?package=spongemockify)
-[![License](https://img.shields.io/github/license/maacpiash/spongemockify.svg)](https://github.com/maacpiash/spongemockify/blob/master/LICENSE)
-[![Open issues](https://img.shields.io/github/issues/maacpiash/spongemockify.svg)](https://github.com/maacpiash/spongemockify/issues)
-[![Contributors](https://img.shields.io/github/contributors/maacpiash/spongemockify.svg)](https://github.com/maacpiash/spongemockify/graphs/contributors)
-[![PR welcome](https://img.shields.io/badge/PR-welcome-green.svg)](https://github.com/maacpiash/spongemockify/pulls)
-![GitHub top language](https://img.shields.io/github/languages/top/maacpiash/spONgeMocKifY.svg?color=green&style=flat)
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?url=https%3A//github.com/maacpiash/spongemockify&text=cHeCK%20tHIs%20Out%21)
+<p align="center">
+    <a href="https://travis-ci.org/maacpiash/spongemockify"><img
+            src="https://travis-ci.org/maacpiash/spongemockify.svg?branch=master" alt="Build Status"></a>
+    <a href="https://codecov.io/gh/maacpiash/spongemockify/"><img
+            src="https://img.shields.io/codecov/c/github/maacpiash/spongemockify/coverage.svg?style=flat-square"
+            alt="Codecov Coverage"></a>
+    <a href="https://www.npmjs.com/package/spongemockify"><img src="https://badge.fury.io/js/spongemockify.svg"
+            alt="npm version"></a>
+    <a href="https://www.npmjs.com/package/spongemockify"><img src="https://img.shields.io/npm/dt/spongemockify.svg"
+            alt="npm Downloads"></a>
+    <a href="https://packagequality.com/#?package=spongemockify"><img
+            src="https://npm.packagequality.com/shield/spongemockify.svg" alt="Package Quality"></a><br>
+    <a href="https://github.com/maacpiash/spongemockify/blob/master/LICENSE"><img
+            src="https://img.shields.io/github/license/maacpiash/spongemockify.svg" alt="License"></a>
+    <a href="https://github.com/maacpiash/spongemockify/issues"><img
+            src="https://img.shields.io/github/issues/maacpiash/spongemockify.svg" alt="Open issues"></a>
+    <a href="https://github.com/maacpiash/spongemockify/graphs/contributors"><img
+            src="https://img.shields.io/github/contributors/maacpiash/spongemockify.svg" alt="Contributors"></a>
+    <a href="https://github.com/maacpiash/spongemockify/pulls"><img
+            src="https://img.shields.io/badge/PR-welcome-green.svg" alt="PR welcome"></a>
+    <img src="https://img.shields.io/github/languages/top/maacpiash/spONgeMocKifY.svg?color=green&amp;style=flat"
+        alt="GitHub top language">
+    <a
+        href="https://twitter.com/intent/tweet?url=https%3A//github.com/maacpiash/spongemockify&amp;text=cHeCK%20tHIs%20Out%21"><img
+            src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" alt="Tweet"></a>
+</p>
 
 This simple Node.js module takes a string as a CLI input and converts it into a [mocking Spongebob meme](https://knowyourmeme.com/memes/mocking-spongebob) style text.
 
