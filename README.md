@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/maacpiash/spongemockify.svg?branch=master)](https://travis-ci.org/maacpiash/spongemockify)
 [![npm version](https://badge.fury.io/js/spongemockify.svg)](https://www.npmjs.com/package/spongemockify)
 [![npm Downloads](https://img.shields.io/npm/dt/spongemockify.svg)](https://www.npmjs.com/package/spongemockify)
+[![Package Quality](https://npm.packagequality.com/shield/spongemockify.svg)](https://packagequality.com/#?package=spongemockify)
 [![License](https://img.shields.io/github/license/maacpiash/spongemockify.svg)](https://github.com/maacpiash/spongemockify/blob/master/LICENSE)
 [![Open issues](https://img.shields.io/github/issues/maacpiash/spongemockify.svg)](https://github.com/maacpiash/spongemockify/issues)
 [![Contributors](https://img.shields.io/github/contributors/maacpiash/spongemockify.svg)](https://github.com/maacpiash/spongemockify/graphs/contributors)
