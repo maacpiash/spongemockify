@@ -8,6 +8,8 @@
             alt="Codecov Coverage"></a>
     <a href="https://www.npmjs.com/package/spongemockify" target="_blank"><img src="https://badge.fury.io/js/spongemockify.svg"
             alt="npm version"></a>
+    <a href="https://david-dm.org/maacpiash/spongemockify" target="_blank"><img src="https://img.shields.io/david/maacpiash/spongemockify.svg"
+            alt="Dependency status"></a>
     <a href="https://www.npmjs.com/package/spongemockify" target="_blank"><img src="https://img.shields.io/npm/dt/spongemockify.svg"
             alt="npm Downloads"></a>
     <a href="https://packagequality.com/#?package=spongemockify" target="_blank"><img
