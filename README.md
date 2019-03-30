@@ -1,14 +1,10 @@
 <div align="center">
-<picture style="align: center;">
-    <source srcset="meme.jpeg">
-    <source srcset="https://raw.githubusercontent.com/maacpiash/spongemockify/master/meme.jpeg">
     <img src="https://raw.githubusercontent.com/maacpiash/spongemockify/master/meme.jpeg" alt="meme">
-</picture>
 </div>
-<br><br>
+<br>
 <h1 align="center">spONgeMocKifY</h1>
 
-
+<center>
 <div align="center">
 <table align="center">
     <tbody>
@@ -48,13 +44,9 @@
             </td>
         </tr>
     </tbody>
-</table>
-    
-    
-    
-    
-    
+</table>  
 </div>
+</center>
 
 This simple Node.js module takes a string as a CLI input and converts it into a [mocking Spongebob meme](https://knowyourmeme.com/memes/mocking-spongebob) style text.
 
