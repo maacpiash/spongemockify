@@ -40,7 +40,7 @@
             <a href="https://github.com/maacpiash/spongemockify/graphs/contributors" target="_blank"><img
             src="https://img.shields.io/github/contributors/maacpiash/spongemockify.svg" alt="Contributors"></a>
             <a href="https://github.com/maacpiash/spongemockify/pulls" target="_blank"><img
-            src="https://img.shields.io/badge/PR-welcome-green.svg" alt="PR welcome"></a>            
+            src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=round-square" alt="PR welcome"></a>            
             </td>
         </tr>
     </tbody>
