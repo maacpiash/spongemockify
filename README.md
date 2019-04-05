@@ -81,4 +81,5 @@ Special thanks to my good buddy and a prominent JS junkie [Shawon Ashraf](https:
 Enjoy! <br><br>
 <a  target="_blank"
         href="https://twitter.com/intent/tweet?url=https%3A//github.com/maacpiash/spongemockify&amp;text=cHeCK%20tHIs%20Out%21"><img
-            src="https://img.shields.io/badge/share-twitter-blue.svg" alt="Tweet"></a>
+            src="https://img.shields.io/twitter/url/https/github.com/maacpiash/spongemockify.svg?style=social" alt="Tweet"></a>
+            
