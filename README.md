@@ -11,24 +11,24 @@
         <tr>
             <td>Specs</td>
             <td align="center">
-                <a href="https://travis-ci.org/maacpiash/spongemockify" target="_blank"><img src="https://travis-ci.org/maacpiash/spongemockify.svg?branch=master" alt="Build Status"></a>
+                <a href="https://travis-ci.org/maacpiash/spongemockify" target="_blank"><img src="https://img.shields.io/travis/maacpiash/spongemockify.svg?logo=travis" alt="Build Status"></a>
                 <a href="https://codecov.io/gh/maacpiash/spongemockify/" target="_blank"><img
-                src="https://img.shields.io/codecov/c/github/maacpiash/spongemockify.svg"
+                src="https://img.shields.io/codecov/c/github/maacpiash/spongemockify.svg?logo=codecov"
                 alt="Codecov Coverage"></a>
-                <img src="https://img.shields.io/github/languages/top/maacpiash/spONgeMocKifY.svg?color=green&amp;style=flat"
+                <img src="https://img.shields.io/github/languages/top/maacpiash/spONgeMocKifY.svg?color=green&amp;style=flat&amp;logo=javascript"
                 alt="GitHub top language">
             </td>
         </tr>
         <tr>
             <td>Package</td>
-            <td align="center"><a href="https://www.npmjs.com/package/spongemockify" target="_blank"><img src="https://badge.fury.io/js/spongemockify.svg"
+            <td align="center"><a href="https://www.npmjs.com/package/spongemockify" target="_blank"><img src="https://img.shields.io/npm/v/spongemockify.svg?logo=npm"
             alt="npm version"></a>
-            <a href="https://www.npmjs.com/package/spongemockify" target="_blank"><img src="https://img.shields.io/npm/dt/spongemockify.svg"
+            <a href="https://www.npmjs.com/package/spongemockify" target="_blank"><img src="https://img.shields.io/npm/dt/spongemockify.svg?logo=npm"
             alt="npm Downloads"></a>
             <a href="https://david-dm.org/maacpiash/spongemockify" target="_blank"><img src="https://img.shields.io/david/maacpiash/spongemockify.svg"
             alt="Dependency status"></a>
             <a href="https://packagequality.com/#?package=spongemockify" target="_blank"><img
-            src="https://npm.packagequality.com/shield/spongemockify.svg" alt="Package Quality"></a></td>
+            src="https://npm.packagequality.com/shield/spongemockify.svg?logo=node-dot-js" alt="Package Quality"></a></td>
         </tr>
         <tr>
             <td>Contribution</td>
