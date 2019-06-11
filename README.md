@@ -17,6 +17,7 @@
                 alt="Codecov Coverage"></a>
                 <img src="https://img.shields.io/github/languages/top/maacpiash/spONgeMocKifY.svg?color=green&amp;style=flat&amp;logo=javascript"
                 alt="GitHub top language">
+              <a href="https://codeclimate.com/github/maacpiash/spongemockify/maintainability" target="_blank"><img src="https://api.codeclimate.com/v1/badges/cc49c4d250561de84947/maintainability" /></a>
             </td>
         </tr>
         <tr>
