@@ -5,48 +5,16 @@
 <h1 align="center">spONgeMocKifY</h1>
 
 <center>
-<div align="center">
-<table align="center">
-    <tbody>
-        <tr>
-            <td>Specs</td>
-            <td align="center">
-                <a href="https://travis-ci.org/maacpiash/spongemockify" target="_blank"><img src="https://img.shields.io/travis/maacpiash/spongemockify.svg?logo=travis" alt="Build Status"></a>
-                <a href="https://codecov.io/gh/maacpiash/spongemockify/" target="_blank"><img
-                src="https://img.shields.io/codecov/c/github/maacpiash/spongemockify.svg?logo=codecov"
-                alt="Codecov Coverage"></a>
-                <img src="https://img.shields.io/github/languages/top/maacpiash/spONgeMocKifY.svg?color=green&amp;style=flat&amp;logo=javascript"
-                alt="GitHub top language">
-              <a href="https://codeclimate.com/github/maacpiash/spongemockify/maintainability" target="_blank"><img src="https://api.codeclimate.com/v1/badges/cc49c4d250561de84947/maintainability" /></a>
-            </td>
-        </tr>
-        <tr>
-            <td>Package</td>
-            <td align="center"><a href="https://www.npmjs.com/package/spongemockify" target="_blank"><img src="https://img.shields.io/npm/v/spongemockify.svg?logo=npm"
-            alt="npm version"></a>
-            <a href="https://www.npmjs.com/package/spongemockify" target="_blank"><img src="https://img.shields.io/npm/dt/spongemockify.svg?logo=npm"
-            alt="npm Downloads"></a>
-            <a href="https://david-dm.org/maacpiash/spongemockify" target="_blank"><img src="https://img.shields.io/david/maacpiash/spongemockify.svg"
-            alt="Dependency status"></a>
-            <a href="https://packagequality.com/#?package=spongemockify" target="_blank"><img
-            src="https://npm.packagequality.com/shield/spongemockify.svg?logo=node-dot-js" alt="Package Quality"></a></td>
-        </tr>
-        <tr>
-            <td>Contribution</td>
-            <td align="center">
-                <a href="https://github.com/maacpiash/spongemockify/blob/master/LICENSE" target="_blank"><img
-            src="https://img.shields.io/github/license/maacpiash/spongemockify.svg" alt="License"></a>
-            <a href="https://github.com/maacpiash/spongemockify/issues" target="_blank"><img
-            src="https://img.shields.io/github/issues/maacpiash/spongemockify.svg" alt="Open issues"></a>
-            <a href="https://github.com/maacpiash/spongemockify/graphs/contributors" target="_blank"><img
-            src="https://img.shields.io/github/contributors/maacpiash/spongemockify.svg" alt="Contributors"></a>
-            <a href="https://github.com/maacpiash/spongemockify/pulls" target="_blank"><img
-            src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=round-square" alt="PR welcome"></a>            
-            </td>
-        </tr>
-    </tbody>
-</table>  
-</div>
+<p align="center">
+<a href="https://travis-ci.org/maacpiash/spongemockify" target="_blank"><img src="https://img.shields.io/travis/maacpiash/spongemockify.svg" alt="Build Status"></a>
+<a href="https://codecov.io/gh/maacpiash/spongemockify/" target="_blank"><img src="https://img.shields.io/codecov/c/github/maacpiash/spongemockify.svg" alt="Codecov Coverage"></a>
+<a href="https://www.npmjs.com/package/spongemockify" target="_blank"><img src="https://img.shields.io/npm/v/spongemockify.svg" alt="npm version"></a>
+<a href="https://www.npmjs.com/package/spongemockify" target="_blank"><img src="https://img.shields.io/npm/dt/spongemockify.svg" alt="npm Downloads"></a>
+<a href="https://david-dm.org/maacpiash/spongemockify" target="_blank"><img src="https://img.shields.io/david/maacpiash/spongemockify.svg" alt="Dependency status"></a>
+<a href="https://packagequality.com/#?package=spongemockify" target="_blank"><img src="https://npm.packagequality.com/shield/spongemockify.svg" alt="Package Quality"></a>
+<a href="https://codeclimate.com/github/maacpiash/spongemockify/maintainability" target="_blank"><img src="https://img.shields.io/codeclimate/maintainability/maacpiash/spongemockify" /></a>
+<a href="https://deepscan.io/dashboard#view=project&tid=10055&pid=13730&bid=239160"><img src="https://deepscan.io/api/teams/10055/projects/13730/branches/239160/badge/grade.svg" alt="DeepScan grade"></a>
+</p>
 </center>
 
 This simple Node.js module takes a string as a CLI input and converts it into a [mocking Spongebob meme](https://knowyourmeme.com/memes/mocking-spongebob) style text.
