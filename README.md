@@ -21,11 +21,30 @@ It follows one simple rules: no more than three consecutive same-case (uppercase
 
 ## Installation
 
-#### As a Node module
-A simple `npm install spongemockify` inside your project folder should do the job.
-
-#### As a CLI tool
-From any folder, execute `npm install -g spongemockify` command. Superuser access may be needed in Unix/Linux systems.
+<table>
+  <thead>
+    <tr>
+      <th rowspan="2">Package Manager</th>
+      <th colspan="2">Scope of Installation</th>
+    </tr>
+    <tr>
+      <th>Local</th>
+      <th>Global (CLI tool)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>NPM</td>
+      <td><code>npm i spongemockify</code></td>
+      <td><code>npm i -g spongemockify</code></td>
+    </tr>
+    <tr>
+      <td>Yarn</td>
+      <td><code>yarn add spongemockify</code></td>
+      <td><code>yarn global add spongemockify</code></td>
+    </tr>
+  </tbody>
+</table>
 
 ## Usage
 As a CLI tool:
