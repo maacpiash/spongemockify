@@ -17,7 +17,7 @@ rules:
     - single
   semi:
     - error
-    - always
+    - never
   no-console:
     - off
   no-unused-vars:

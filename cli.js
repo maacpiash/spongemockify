@@ -1,4 +1,4 @@
 #!/usr/bin/env node
-const lib = require('./lib');
+const lib = require('./lib')
 
-console.log(lib.spongemockify(process.argv[2]));
+console.log(lib.spongemockify(process.argv[2]))
