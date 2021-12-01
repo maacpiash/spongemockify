@@ -1,12 +1,12 @@
 function spongemockify(str) {
-  let rand = 0
+  let rand = false
 
   let upperCount = 0 // counts consecutive uppercase characters
   let lowerCount = 0 // counts consecutive lowercase characters
 
-  let characters = str.split('')
+  const characters = str.split('')
 
-  let newChars = []
+  const newChars = []
 
   for (let c of characters) {
     if (upperCount === 2) {
@@ -19,7 +19,7 @@ function spongemockify(str) {
       upperCount = 1
     } else {
       // upperCount <= 1 && lowerCount <= 1
-      rand = Math.floor(Math.random() * 2) // either 0 or 1 only
+      rand = Math.floor(Math.random() * 2) === 1 // either 0 or 1 only
       newChars.push(rand ? c.toUpperCase() : c.toLowerCase())
       if (rand)
         upperCount++
