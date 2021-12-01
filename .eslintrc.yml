@@ -24,4 +24,4 @@ rules:
     - warn
   max-len:
     - off
-    
+
