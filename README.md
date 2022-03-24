@@ -10,6 +10,7 @@
 <a href="https://codecov.io/gh/maacpiash/spongemockify/" target="_blank"><img src="https://img.shields.io/codecov/c/github/maacpiash/spongemockify.svg?style=flat-square" alt="Codecov Coverage"></a>
 <a href="https://www.npmjs.com/package/spongemockify" target="_blank"><img src="https://img.shields.io/npm/v/spongemockify.svg?style=flat-square" alt="npm version"></a>
 <a href="https://www.npmjs.com/package/spongemockify" target="_blank"><img src="https://img.shields.io/npm/dt/spongemockify.svg?style=flat-square" alt="npm Downloads"></a>
+<a href="https://www.npmjs.com/package/spongemockify" target="_blank"><img alt="npm bundle size" src="https://img.shields.io/bundlephobia/min/spongemockify?style=flat-square"></a>
 <a href="https://packagequality.com/#?package=spongemockify" target="_blank"><img src="https://npm.packagequality.com/shield/spongemockify.svg?style=flat-square" alt="Package Quality"></a>
 <a href="https://codeclimate.com/github/maacpiash/spongemockify/maintainability" target="_blank"><img src="https://img.shields.io/codeclimate/maintainability/maacpiash/spongemockify?style=flat-square" /></a>
 </p>
